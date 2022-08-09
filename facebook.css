@@ -1,0 +1,119 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: rgb(240, 242, 245);
+    display: flex;
+}
+
+.facebook-section {
+    margin-left: 19rem;
+    margin-top: 12rem;
+}
+
+.facebook-h {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    color: rgb(24, 119, 245);
+    font-size: 4rem;
+}
+
+.facebook-p {
+    font-weight: lighter;
+    font-size: 1.9rem;
+    margin-top: 0.5rem;
+}
+
+.facebook-form-btn {
+    margin-left: 10rem;
+    margin-top: 12rem;
+    border-radius: 10px;
+    background-color: white;
+    height: max-content;
+    width: max-content;
+    padding: 1rem 1rem;
+    border: none;
+    box-shadow: 0px 0px 20px -10px;
+
+}
+
+input {
+    height: 3rem;
+    width: 23rem;
+    font-size: 1.1rem;
+    text-align: start;
+    padding: 1rem;
+    border-radius: 8px;
+    border: 0.5px solid rgb(207, 195, 195);
+}
+
+.email {
+    margin-bottom: 0.8rem;
+}
+
+
+
+.btn-1 {
+    height: 3rem;
+    width: 23rem;
+    font-size: 20px;
+    background-color: rgb(24, 119, 245);
+    color: white;
+    border: none;
+    margin-top: 1rem;
+    border-radius: 8px;
+
+}
+
+.btn-1:hover {
+    background-color: rgb(12, 111, 240);
+}
+
+.question-tag {
+    font-size: 0.9rem;
+    text-align: center;
+    color: rgb(19, 115, 241);
+    margin-top: 1rem;
+    font-style: inherit;
+    font-size: medium;
+}
+
+.hzntl {
+    margin-top: 2rem;
+    border-bottom: 0.5px solid rgb(221, 221, 221);
+    border-top: none;
+
+}
+
+.btn-2 {
+    height: 3rem;
+    width: 13rem;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(38, 199, 38);
+    color: white;
+    border: none;
+    margin-left: 5rem;
+    margin-top: 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+
+
+}
+
+.btn-2:hover {
+    opacity: 0.9;
+    background-color: rgb(38, 140, 38);
+}
+
+.facebook-p2 {
+    margin-left: 13rem;
+    margin-top: 1.8rem;
+}
+
+span {
+    font-weight: bold;
+}
+
